@@ -1,3 +1,3 @@
 aws cloudformation delete-stack \
-  --region us-east-1 \
+  --region eu-central-1 \
   --stack-name my-eks-cluster 
